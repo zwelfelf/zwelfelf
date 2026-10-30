@@ -10,7 +10,7 @@ I work across the entire product lifecycle — from strategy, discovery and UX r
 
 <br />
 
-## 02 — What I do
+## What I do
 
 **Product Design**<br />
 Strategy, discovery, UX research and interaction design.
@@ -25,17 +25,17 @@ Scalable components, design tokens and cross-platform consistency.
 Making complex workflows simpler and more useful.
 
 **Design Engineering & Prototyping**<br />
-Bringing ideas into implementation through HTML, CSS, Astro and Tailwind CSS.
+Translating design concepts into working interfaces through HTML, CSS, Astro and Tailwind CSS.
 
 <br />
 
-## 03 — Selected work
+## Selected work
 
 <a href="https://csongorfarkas.com">
   <img src="./assets/work-portfolio.png" width="100%" alt="Portfolio: screenshot of csongorfarkas.com, built with Astro" />
 </a>
 
-**Portfolio** · Astro<br />
+[**Portfolio**](https://csongorfarkas.com) · Astro<br />
 Personal portfolio — product design, UX/UI and digital experiences.<br />
 [csongorfarkas.com ↗](https://csongorfarkas.com)
 
@@ -45,25 +45,25 @@ Personal portfolio — product design, UX/UI and digital experiences.<br />
   <img src="./assets/work-sonic-north.png" width="100%" alt="Sonic North Studio: screenshot of sonicnorthstudio.com, built with Tailwind CSS" />
 </a>
 
-**Sonic North Studio** · Tailwind CSS<br />
+[**Sonic North Studio**](https://sonicnorthstudio.com) · Tailwind CSS<br />
 Independent sound-design brand — visual identity, digital experience and frontend implementation.<br />
 [sonicnorthstudio.com ↗](https://sonicnorthstudio.com)
 
 <br />
 
-## 04 — Tools & technologies
+## Tools & technologies
 
 <table>
   <tr><td><b>Design</b></td><td>Figma · FigJam · Tokens Studio · Adobe Creative Cloud</td></tr>
-  <tr><td><b>Development</b></td><td>HTML · CSS · Astro · Tailwind CSS</td></tr>
+  <tr><td><b>Frontend</b></td><td>HTML · CSS · Astro · Tailwind CSS</td></tr>
   <tr><td><b>Collaboration</b></td><td>Storybook · Git · GitHub · Jira</td></tr>
   <tr><td><b>AI</b></td><td>Claude · ChatGPT</td></tr>
 </table>
 
 <br />
 
-## 05 — Contact
+## Contact
 
-Happy to connect about thoughtful digital products, product design and interesting design challenges.
+Open to connecting with people building thoughtful digital products and solving interesting design challenges.
 
 [Portfolio ↗](https://csongorfarkas.com) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/csongor-farkas/)
