@@ -47,7 +47,7 @@ Personal portfolio — product design, UX/UI and digital experiences.<br />
 
 [**Sonic North Studio**](https://sonicnorthstudio.com) · Tailwind CSS<br />
 Independent sound-design brand — visual identity, digital experience and frontend implementation.<br />
-[sonicnorthstudio.com ↗](https://sonicnorthstudio.com)
+Live site: [sonicnorthstudio.com ↗](https://sonicnorthstudio.com) &nbsp;·&nbsp; Design system: [sonic-north-design-system ↗](https://github.com/zwelfelf/sonic-north-design-system)
 
 <br />
 
