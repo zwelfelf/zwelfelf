@@ -1,10 +1,10 @@
 <a href="https://csongorfarkas.com">
-  <img src="./assets/header.png" width="100%" alt="Csongor Farkas — Senior Product &amp; UX/UI Designer" />
+  <img src="./assets/header.png" width="100%" alt="Csongor Farkas — Senior Product Designer" />
 </a>
 
 <br />
 
-I'm a Senior Product & UX/UI Designer with 12+ years of experience shaping digital products, primarily in B2B SaaS.
+I'm a Senior Product Designer with 12+ years of experience shaping digital products, primarily in B2B SaaS.
 
 I work across the entire product lifecycle — from strategy, discovery and UX research to interaction design, scalable design systems and implementation. I combine strategic thinking with hands-on design and a practical understanding of frontend development.
 
